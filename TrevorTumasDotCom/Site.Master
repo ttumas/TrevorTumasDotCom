@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TrevorTumasDotCom.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %></title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/Site.css">
+    <script src="https://kit.fontawesome.com/c67c1fbe70.js"></script>
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Trevor Tumas</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Resume</a></li>
+                        <li><a runat="server" href="~/About">My Nature</a></li>
+                        <li><a runat="server" href="~/Contact">Projects</a></li>
+                        <li><a runat="server" href="~/Contact">Thoughts</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="contact-sticky col-md-12"> 
+            <div class="contact-content">
+                <div class="contact-content-bullet heartbeat">
+                    <p >Trevor Tumas</p>
+                    <p >trevortumas@gmail.com</p>
+                    <p >(480) 600-6368</p>               
+                </div>           
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p class="align-center">&copy; Trevor Bradley Tumas <%: DateTime.Now.Year %></p>
+                <div class="align-center">
+<%--                    <nav class="social-media-nav-bar">
+                        <div class="icon" data-name="social-twitter" data-code="0xe0f9"><div>
+                            <a href="https://www.twitter.com/trevortumas" class="icon expand-before transition expand" data-name="social-twitter" data-code="0xe0f9">
+                                <span class="typcn icon-default typcn-social-twitter"></span>
+                            </a>
+
+                            <span class="typcn icon-default typcn-social-twitter"></span>
+                        </div>
+                        <div class="icon" data-name="social-linkedin" data-code="0xe0f1">
+                            <a href="https://www.linkedin.com/in/trevor-tumas" class="typcn icon-default typcn-social-linkedin"></a>
+                        </div>
+                        <div class="icon" data-name="social-instagram" data-code="0xe0ed">
+                            <a href="https://www.instagram.com/ttumas/" class="typcn icon-default typcn-social-instagram"></a>
+                        </div>
+                        <div class="icon" data-name="social-facebook" data-code="0xe0e5">
+                            <a href="https://www.facebook.com/trevor.tumas" class="typcn icon-default typcn-social-facebook"></a>
+                        </div>
+                    </nav>--%>
+
+                    <a class="btn" href="https://www.facebook.com/trevor.tumas">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="btn" href="https://www.twitter.com/trevortumas">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a class="btn" href="https://www.instagram.com/ttumas/">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a class="btn" href="https://www.linkedin.com/in/trevor-tumas">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </div>
+            </footer>
+        </div>
+        
+        
+
+    </form>
+</body>
+</html>
