@@ -49,14 +49,14 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">Trevor Tumas</a>
+                    <a class="navbar-brand" runat="server" href="~/Default">Resume</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Resume</a></li>
-                        <li><a runat="server" href="~/About">My Nature</a></li>
+                        <li><a runat="server" href="~/">Coming Soon</a></li>
+                        <%--<li><a runat="server" href="~/About">My Nature</a></li>
                         <li><a runat="server" href="~/Contact">Projects</a></li>
-                        <li><a runat="server" href="~/Contact">Thoughts</a></li>
+                        <li><a runat="server" href="~/Contact">Thoughts</a></li>--%>
                     </ul>
                 </div>
             </div>
@@ -78,25 +78,6 @@
             <footer>
                 <p class="align-center">&copy; Trevor Bradley Tumas <%: DateTime.Now.Year %></p>
                 <div class="align-center">
-<%--                    <nav class="social-media-nav-bar">
-                        <div class="icon" data-name="social-twitter" data-code="0xe0f9"><div>
-                            <a href="https://www.twitter.com/trevortumas" class="icon expand-before transition expand" data-name="social-twitter" data-code="0xe0f9">
-                                <span class="typcn icon-default typcn-social-twitter"></span>
-                            </a>
-
-                            <span class="typcn icon-default typcn-social-twitter"></span>
-                        </div>
-                        <div class="icon" data-name="social-linkedin" data-code="0xe0f1">
-                            <a href="https://www.linkedin.com/in/trevor-tumas" class="typcn icon-default typcn-social-linkedin"></a>
-                        </div>
-                        <div class="icon" data-name="social-instagram" data-code="0xe0ed">
-                            <a href="https://www.instagram.com/ttumas/" class="typcn icon-default typcn-social-instagram"></a>
-                        </div>
-                        <div class="icon" data-name="social-facebook" data-code="0xe0e5">
-                            <a href="https://www.facebook.com/trevor.tumas" class="typcn icon-default typcn-social-facebook"></a>
-                        </div>
-                    </nav>--%>
-
                     <a class="btn" href="https://www.facebook.com/trevor.tumas">
                         <i class="fab fa-facebook-f"></i>
                     </a>
@@ -112,9 +93,6 @@
                 </div>
             </footer>
         </div>
-        
-        
-
     </form>
 </body>
 </html>
