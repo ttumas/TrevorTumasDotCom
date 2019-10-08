@@ -143,15 +143,15 @@
                     <div class="col-md-6 thumbnail-group">
                         <div class="thumbnail-container" style="padding-right: 5%;">
                             <img class="thumbnail" src="Content/images/CollagePhotos/collage_budapest.jpeg" />
-                            <h6 class="caption">Group photo with my friends in Budapest that I met while abroad</h6>
+                            <h6 class="caption">Group photo with my friends in Budapest whom I met while abroad</h6>
                         </div>
                         <div class="thumbnail-container">
                             <img class="thumbnail" src="Content/images/thesis_success.jpg" />
-                            <h6 class="caption">My thesis partner, Kyle Stenseth, and I after successfully defending</h6>
+                            <h6 class="caption">My thesis co-author, Kyle Stenseth, and I after successfully defending the paper</h6>
                         </div>
                         <div class="thumbnail-container">
                             <img class="thumbnail" src="Content/images/CollagePhotos/collage_crowe.jpg" />
-                            <h6 class="caption">Honors Devils (Barrett tour guides) and I posing with Michael Crow during a special event with provosts</h6>
+                            <h6 class="caption">Honors Devils (Barrett tour guides) and I posing with ASU President Michael Crow during a special event with provosts</h6>
                         </div>                    
                     </div>
 
@@ -177,7 +177,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>The first language that I learned to program with over two semesters at ASU and use on a daily basis as a developer at Sandhills Global. I'm not only confident with the language, but also writing code in the most efficient way I can for what I'm doing.</span>
+                            <span class="mobile-hide">The first language that I learned to program with over two semesters at ASU and use on a daily basis as a developer at Sandhills Global. I'm not only confident with the language, but also writing code in the most efficient way I can for what I'm doing.</span>
                         </a>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>The code at Sandhills Global is transitioning from VB to C#, and I use it on a daily basis. Translating VB/C# helps me improve my C# skills. High proficiency.</span>
+                            <span class="mobile-hide">The code at Sandhills Global is transitioning from VB to C#, and I use it on a daily basis. Translating VB/C# helps me improve my C# skills.</span>
                         </a>
                     </div>
                 </div>
@@ -209,7 +209,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>Along with C#, SQL was among the first programming languages that I became fluent in. I studied databases at ASU, making databases from scratch and becoming very familiar with the process of building them from the schema to the queries. At Sandhills Global, I had to be good at finding relevant data which kept my SQL skills sharp.</span>
+                            <span class="mobile-hide">Along with C#, SQL was among the first programming languages that I became fluent in. I studied databases at ASU, making databases from scratch and becoming very familiar with the process of building them from the schema to the queries. At Sandhills Global, I had to be good at finding relevant data which kept my SQL skills sharp.</span>
                         </a>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>Sandhills Global has many websites and a ton of HTML which I help maintain. I also made this website from scratch.</span>
+                            <span class="mobile-hide">Sandhills Global has many websites and a ton of HTML which I help maintain. I also made this website from scratch.</span>
                         </a>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-half-outline inline"></div>
                             </div>
-                            <span>I help tweak and maintain CSS on the websites of Sandhills Global. I also styled this website myself.</span>
+                            <span class="mobile-hide">I help tweak and maintain CSS on the websites of Sandhills Global. I also styled this website myself.</span>
                         </a>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>I am confident with object oriented programming, so JavaScript is intuitive for me. I fairly often use JavaScript while maintaining websites at Sandhills Global.</span>
+                            <span class="mobile-hide">I am confident with object oriented programming, so JavaScript is intuitive for me. I fairly often use JavaScript while maintaining websites at Sandhills Global.</span>
                         </a>
                     </div>
                 </div>
@@ -273,7 +273,7 @@
                                 <div class="typcn icon-default typcn-star-half-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>Usually when I am using JavaScript, I am using JQuery. I am confident with the syntax and have used it to make features such as image slideshows and passing data from front-end to back-end.</span>
+                            <span class="mobile-hide">Usually when I am using JavaScript, I am using JQuery. I am confident with the syntax and have used it to make features such as image slideshows and passing data from front-end to back-end.</span>
                         </a>
                     </div>
                 </div>
@@ -289,7 +289,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>My team at Sandhills Global uses a proprietary project management software that is basically a cloud-based scrum board. I regularly break down my backlog into work items and track their progress, including hours and specifics of what I did during each sprint. I also have daily standup meetings.</span>
+                            <span class="mobile-hide">My team at Sandhills Global uses a proprietary project management software that is basically a cloud-based scrum board. I regularly break down my backlog into work items and track their progress, including hours and specifics of what I did during each sprint. I also have daily standup meetings.</span>
                         </a>
                     </div>
                 </div>
@@ -305,7 +305,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>The APIs that I develop at Sandhills Global often use XML files for reading data that is passed in. I have learned how to parse these as well as write to them when necessary.</span>
+                            <span class="mobile-hide">The APIs that I develop at Sandhills Global often use XML files for reading data that is passed in. I have learned how to parse these as well as write to them when necessary.</span>
                         </a>
                     </div>
                 </div>
@@ -321,7 +321,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>I was trained on MVC patterns at Sandhills Global. A task that I was given involved creating a custom web page from scratch using MVC architecture, and this required me to expand my understanding of it considerably.</span>
+                            <span class="mobile-hide">I was trained on MVC patterns at Sandhills Global. A task that I was given involved creating a custom web page from scratch using MVC architecture, and this required me to expand my understanding of it considerably.</span>
                         </a>
                     </div>
                 </div>
@@ -337,7 +337,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>At Sandhills Global, most of the applications I worked on involved communication with server-based code. It was very common for me to use Razor when retrieving objects that depended on user input, populating tables with server-side data, etc.</span>
+                            <span class="mobile-hide">At Sandhills Global, most of the applications I worked on involved communication with server-based code. It was very common for me to use Razor when retrieving objects that depended on user input, populating tables with server-side data, etc.</span>
                         </a>
                     </div>
                 </div>
@@ -350,10 +350,10 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
-                                <div class="typcn icon-default typcn-star-full-outline inline"></div>
-                                <div class="typcn icon-default typcn-star-full-outline inline"></div>
+                                <div class="typcn icon-default typcn-star-outline inline"></div>
+                                <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>As Sandhills Global has many web applications, Ajax calls are often useful for loading data asynchronously in scenarios where we have user input that prompts new data to enter the page. Often we don't want the page to reload, and I use Ajax to make web pages have a buttery, seamless feel to them.</span>
+                            <span class="mobile-hide">Because Sandhills Global has many web applications, Ajax calls are often useful for loading data asynchronously in scenarios where we have user input that prompts new data to enter the page. Often we don't want the page to reload, and I use Ajax to make web pages have a buttery, seamless feel to them.</span>
                         </a>
                     </div>
                 </div>
@@ -369,7 +369,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>My background is in OOP and I am completely confident in its principles. I studied this in school, and then expanded on those skills during my time at Sandhills Global working extensively in .NET applications and APIs.</span>
+                            <span class="mobile-hide">My background is in OOP and I am completely confident in its principles. I studied this in school, and then expanded on those skills during my time at Sandhills Global working extensively in .NET applications and APIs.</span>
                         </a>
                     </div>
                 </div>
@@ -385,7 +385,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>Sandhills Global operates on a task order system where I could have numerous tasks of varying size and focus on me at the same time. I've become great at multitasking and working in a scrum framework, where we have daily standup meetings and organize ourselves using proprietary scrum software.</span>
+                            <span class="mobile-hide">Sandhills Global operates on a task order system where I could have numerous tasks of varying size and focus on me at the same time. I've become great at multitasking and working in a scrum framework, where we have daily standup meetings and organize ourselves using proprietary scrum software.</span>
                         </a>
                     </div>
                 </div>
@@ -409,7 +409,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>I use Visual Studio as my primary tool on a daily basis and can navigate it proficiently. More importantly, I've had plenty of experience troubleshooting issues with the program (including Team Foundation Server) which has made me a more efficient programmer.</span>
+                            <span class="mobile-hide">I use Visual Studio as my primary tool on a daily basis and can navigate it proficiently. More importantly, I've had plenty of experience troubleshooting issues with the program (including Team Foundation Server) which has made me a more efficient programmer.</span>
                         </a>
                     </div>
                 </div>
@@ -425,7 +425,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>This was the primary tool I used at school to build databases and it's also the main tool I use at Sandhills Global to query our data.</span>
+                            <span class="mobile-hide">This was the primary tool I used at school to build databases and it's also the main tool I use at Sandhills Global to query our data.</span>
                         </a>
                     </div>
                 </div>
@@ -441,7 +441,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>During my experience with Sandhills Global, working with people remotely in Nebraska, and the nature of our projects, understanding how to use IIS Manager was very important. Their applications required different settings to run, which meant that during development I often tinkered with the settings of the virtual directories of many projects. Sometimes, a developer in Nebraska would need to test the local version of my project which required me to set up a local server that could be accessed with the right URL.</span>
+                            <span class="mobile-hide">During my experience with Sandhills Global, working with people remotely in Nebraska, and the nature of our projects, understanding how to use IIS Manager was very important. Their applications required different settings to run, which meant that during development I often tinkered with the settings of the virtual directories of many projects. Sometimes, a developer in Nebraska would need to test the local version of my project which required me to set up a local server that could be accessed with the right URL.</span>
                         </a>
                     </div>
                 </div>
@@ -457,7 +457,7 @@
                                 <div class="typcn icon-default typcn-star-half-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>I often have to test web methods while developing APIs at Sandhills Global. I use JSON and encoded URLs to send requests from Postman to the API.</span>
+                            <span class="mobile-hide">I often have to test web methods while developing APIs at Sandhills Global. I use JSON and encoded URLs to send requests from Postman to the API.</span>
                         </a>
                     </div>
                 </div>
@@ -473,7 +473,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>I'm well acquainted with source control principles because of my experience at school with Git and at Sandhills Global with Team Foundation Server. I'm comfortable with Git Bash and using the command console, but most of my source control experience has been through Team Foundation Server. At Sandhills Global, I regularly worked on projects that were checked out by multiple developers. I became very mindful of source code management, branching, and verifying my code was the latest version.  </span>
+                            <span class="mobile-hide">I'm well acquainted with source control principles because of my experience at school with Git and at Sandhills Global with Team Foundation Server. I'm comfortable with Git Bash and using the command console, but most of my source control experience has been through Team Foundation Server. At Sandhills Global, I regularly worked on projects that were checked out by multiple developers. I became very mindful of source code management, branching, and verifying my code was the latest version.  </span>
                         </a>
                     </div>
                 </div>
@@ -489,7 +489,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>A simple yet powerful tool, I often use this to find and replace complex strings (using RegEx) as well as analyze various types of files on a regular basis (.cs, .vb, .config, .xml, .json, .js, .html, etc.).</span>
+                            <span class="mobile-hide">A simple yet powerful tool, I often use this to find and replace complex strings (using RegEx) as well as analyze various types of files on a regular basis (.cs, .vb, .config, .xml, .json, .js, .html, etc.).</span>
                         </a>
                     </div>
                 </div>
@@ -505,7 +505,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>I grew up as a kid who loved computers, with some of my earliest memories playing with and writing short stories on Word. Since then, I've refined my skills and become an expert with Word, Excel, and PowerPoint as well as experienced with all other Microsoft Office programs.</span>
+                            <span class="mobile-hide">I grew up as a kid who loved computers, with some of my earliest memories playing with and writing short stories on Word. Since then, I've refined my skills and become an expert with Word, Excel, and PowerPoint as well as experienced with all other Microsoft Office programs.</span>
                         </a>
                     </div>
                 </div>
@@ -521,7 +521,7 @@
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-full-outline inline"></div>
                             </div>
-                            <span>I'm at the point with Windows that using it feels more like an appendage than a tool; I know how to do so much with it and if there is something I don't know how to do with it I can figure it out easily.</span>
+                            <span class="mobile-hide">I'm at the point with Windows that using it feels more like an appendage than a tool; I know how to do so much with it and if there is something I don't know how to do with it I can figure it out easily.</span>
                         </a>
                     </div>
                 </div>
@@ -537,7 +537,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>As part of a school project, I used Orange to analyze YouTube Trending data that I gathered from an API. My goal was to figure out what variables most affect a video trending or not. I have a general understanding of this tool and appreciate how powerful it is (especially how it isn't SAS Enterprise Miner).</span>
+                            <span class="mobile-hide">As part of a school project, I used Orange to analyze YouTube Trending data that I gathered from an API. My goal was to figure out what variables most affect a video trending or not. I have a general understanding of this tool and appreciate how powerful it is (especially how it isn't SAS Enterprise Miner).</span>
                         </a>
                     </div>
                 </div>
@@ -553,7 +553,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span>I do not regularly edit videos, but here and there I am working on something that requires some footage to be edited. I started using Blender as it was free, open-source, and robust. My thesis project, which can be found on this website, is work that I am proud of but acknowledge is dense and not ideal for an average person to consume. So, I used Blender to create a video that communicates the ideas in the paper with the hopes of reaching a wider audience. It can also be found on this site. </span>
+                            <span class="mobile-hide">I do not regularly edit videos, but here and there I am working on something that requires some footage to be edited. I started using Blender as it was free, open-source, and robust. My thesis project, which can be found on this website, is work that I am proud of but acknowledge is dense and not ideal for an average person to consume. So, I used Blender to create a video that communicates the ideas in the paper with the hopes of reaching a wider audience. It can also be found on this site. </span>
                         </a>
                     </div>
                 </div>

@@ -66,8 +66,8 @@
             <div class="contact-content">
                 <div class="contact-content-bullet heartbeat">
                     <p >Trevor Tumas</p>
-                    <p >trevortumas@gmail.com</p>
-                    <p >(480) 600-6368</p>               
+                    <p ><a href="mailto: trevortumas@gmail.com">trevortumas@gmail.com</a></p>
+                    <p ><a href="tel:480-600-6368">(480) 600-6368</a></p>               
                 </div>           
             </div>
         </div>

@@ -59,6 +59,7 @@
 
 .instagram-media-rendered {
     display: inline-block !important;
+    min-width: 290px !important;
 }
 
 .jumbotron {
@@ -328,6 +329,10 @@ p.align-center {
     }
 
 
+span.mobile-hide {
+    font-size: 0.85em;
+}
+
 .text-pop-up-top {
     -webkit-animation: text-pop-up-top 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
     animation: text-pop-up-top 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
@@ -389,12 +394,18 @@ p.align-center {
         margin-right: 1%;
         max-width: 200px;
     }
+
+    
 }
 
 @media screen and (max-width: 1605px) {
     .contact-content {
-        margin-right: 0%;
-        max-width: 150px;
+        margin-right: 2%;
+        max-width: 161px;
+    }
+
+    .contact-content-bullet {
+        font-size: 0.85em;
     }
 }
 
@@ -472,7 +483,7 @@ p.align-center {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 501px) {
     h2 {
         text-align: center;
     }
@@ -501,7 +512,7 @@ p.align-center {
     }
 
     #header-headshot-mobile {
-        max-width: 100px;
+        max-width: 75px;
         position: static;
         right: 0;
         margin: 0 auto;
@@ -511,7 +522,7 @@ p.align-center {
     }
 
     .mobile-hide {
-        display: none;
+        display: none !important;
     }
 
     .mobile-show {
@@ -521,7 +532,7 @@ p.align-center {
     }
 
     .skill-rating-icon {
-        padding-left: 5% !important;
+        padding-left: 4% !important;
         float: right;
     }
 
@@ -536,7 +547,7 @@ p.align-center {
     }
 
     .text-pop-up-top {
-        font-size: 2.5em !important;
+        font-size: 2.2em !important;
         margin-top: 1em !important;
         display: inline !important;
         vertical-align: middle;
