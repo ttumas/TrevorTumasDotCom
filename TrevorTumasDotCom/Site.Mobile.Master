@@ -52,7 +52,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Coming soon</a></li>
+                        <li><a runat="server" href="~/" style="text-decoration: none;">More Coming Soon</a></li>
                         <%--<li><a runat="server" href="~/About">My Nature</a></li>
                         <li><a runat="server" href="~/Contact">Projects</a></li>
                         <li><a runat="server" href="~/Contact">Thoughts</a></li>--%>
