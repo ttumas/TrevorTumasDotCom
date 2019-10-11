@@ -203,7 +203,7 @@
 
         <%-- readability spacer --%>
 
-        <div class="col-md-6">
+        <div class="col-md-6 skill-column">
             <h2>Technical Skills</h2>
 
             <div class="col-md-12">
@@ -452,7 +452,7 @@
 
         <%-- readability spacer --%>
 
-        <div class="col-md-6">
+        <div class="col-md-6 skill-column">
             <h2>Tools</h2>
 
             <div class="col-md-12">
@@ -635,9 +635,10 @@
                     Software Developer
                 </p>
                 <ul class="mobile-hide">
+                    <li>One of the lead developers for an ongoing project that tracks equipment through time, helping create a competitive advantage and seeing many stages of the life cycle for the old and new versions of the product.</li>
+                    <li>Created a new custom web page to provide a user interface that allows non-technical users to clean data using regular expressions, allowing the database team to offload much of their work and increase development efficiency.</li>
                     <li>Took on a project to automate the processing of UCC data using VB.NET, increasing efficiency for the department that analyzes the data and improving the rate that the company can pursue sales leads.</li>
-                    <li>Revamped the UI of an internal web app by using JavaScript to create a dynamic presentation of images loaded by a user and dialog feedback for incorrect input, making users less dependent on the development team when issues arose.</li>
-                    <li>Progressed rapidly through training and was tasked with helping other trainees by walking them through code structure and presenting demos on coding challenges that I overcame, accelerating them through training to begin value-added tasks.</li>
+                    <li>Participated in agile software development with scrum framework, including daily standup meetings, tracking work items and hours, and juggling numerous tasks at a time while helping other members on my team with their tasks where I could.</li>
                 </ul>
             </div>
             <div class="panel accordion-close">

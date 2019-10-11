@@ -28,8 +28,8 @@
 }
 
 .header-collage-image {
-    max-height: 108px;
-    max-width: 144px;
+    max-height: 96px;
+    max-width: 150px;
     height: auto;
     display: inline-block;
     opacity: 0.5;
@@ -52,7 +52,7 @@
 }
 
 #headshot-container {
-    height: 356px;
+    height: 320px;
     width: 1050px;
     position: absolute;
 }
@@ -295,6 +295,7 @@ p.align-center {
 
     .skill-rating-container > div > a {
         cursor: default;
+        text-decoration: none;
     }
 
 .skill-rating-icon {
@@ -331,6 +332,8 @@ p.align-center {
 
 span.mobile-hide {
     font-size: 0.85em;
+    max-width: 50%;
+    text-align: center;
 }
 
 .text-pop-up-top {
@@ -394,8 +397,6 @@ span.mobile-hide {
         margin-right: 1%;
         max-width: 200px;
     }
-
-    
 }
 
 @media screen and (max-width: 1605px) {
@@ -433,21 +434,25 @@ span.mobile-hide {
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1199px) {
     .header-collage-image {
-        max-width: 122px;
+        max-width: 125px;
+        max-height: 81px;
     }
 
     #header-headshot {
-        right: 52%;
+        right: 42%;
+        max-width: 125px;
     }
 
     #headshot-container {
-        height: 343px;
+        height: 270px;
+        width: 850px;
     }
 }
 
 @media screen and (max-width: 992px) {
+    
     #header-collage {
         display: none;
     }
@@ -474,6 +479,60 @@ span.mobile-hide {
 
     #regular-text-pop {
         display: none;
+    }
+
+    .skill-header {
+        display: inline-block;
+        width: 47% !important;
+    }
+
+    .skill-rating-icon {
+        display: inline-block;
+        padding-left: 7% !important;
+    }
+
+    .skill-rating {
+        line-height: 1.7;
+    }
+}
+
+@media screen and (max-width: 759px) {
+    .skill-column {
+        display: block;
+        width: 100%;
+    }
+
+    .skill-rating-container {
+        width: 100%;
+    }
+
+    .skill-rating-icon {
+        padding-left: 4% !important;
+        float: right;
+        width: 50%;
+        display: inline-block;
+    }
+
+    .skill-header {
+        display: inline;
+        width: 50% !important;
+        float: left;
+        text-align: left;
+    }
+
+    .skill-rating {
+        text-align: -webkit-right;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .skill-column {
+        display: inline-block;
+        width: 49.5%;
+    }
+
+    .skill-rating-icon {
+        padding: 0 !important;
     }
 }
 
@@ -531,20 +590,7 @@ span.mobile-hide {
         padding-bottom: 5%;
     }
 
-    .skill-rating-icon {
-        padding-left: 4% !important;
-        float: right;
-    }
 
-    .skill-header {
-        display: inline;
-        width: 50% !important;
-        float: left;
-    }
-
-    .skill-rating {
-        text-align: center;
-    }
 
     .text-pop-up-top {
         font-size: 2.2em !important;
