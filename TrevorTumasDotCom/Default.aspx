@@ -120,6 +120,7 @@
                     <li>Barrett, the Honors College | Undergraduate thesis: Political Division in America: A Fresh Perspective of the Chaos</li>
                     <li>Studied abroad during the Fall of 2018 at the Vienna University of Economics and Business in Vienna, Austria.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>           
             </div>
             <div class="panel accordion-close">
                 <p>
@@ -640,6 +641,7 @@
                     <li>Took on a project to automate the processing of UCC data using VB.NET, increasing efficiency for the department that analyzes the data and improving the rate that the company can pursue sales leads.</li>
                     <li>Participated in agile software development with scrum framework, including daily standup meetings, tracking work items and hours, and juggling numerous tasks at a time while helping other members on my team with their tasks where I could.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
             <div class="panel accordion-close">
                 <p>
@@ -670,7 +672,7 @@
                 </p>
                 <br />
                 <br />
-                <div style="text-align: center; padding-bottom: 2%;">
+                <div style="text-align: center; padding-bottom: 2%;" class="mobile-hide">
                     <a href="https://www.sandhills.com/" target="_blank">
                         <img src="Content/images/Sandhills_Global_color.png" /></a>
                 </div>
@@ -694,6 +696,7 @@
                     <li>Coordinate lectures given by various companies about obtaining positions to inform myself and our members about the many paths that may be taken in getting hired and applying those advantageous elements in a college career.</li>
                     <li>Enlightened on how to be professionally effective and present myself at events such as career fairs, dinners, and other networking events.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
             <div class="panel accordion-close">
                 <p>
@@ -791,6 +794,7 @@
                     <li>Selected as 1 of 55 students to participate in a four-day program that focused on skill-development and exposure to the tech industry hosted at Google's headquarters.</li>
                     <li>Built relationships with current and former interns, full-time employees, and other immersion attendees to learn about the culture and keys to success at Google and beyond.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
             <div class="panel accordion-close">
                 <p>
@@ -850,6 +854,7 @@
                     <li>Challenged my perspectives on leadership and other aspects of life through debate and analyzation in class with other scholars to develop an organic style of leadership that suits me.</li>
                     <li>Put leadership qualities into practice through engagement in the community by leading initiatives for community service.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
             <div class="panel accordion-close">
                 <p>
@@ -915,6 +920,7 @@
                 <ul class="mobile-hide">
                     <li>Founded organization aimed at combating political apathy by delivering information in a simple and impartial way through a bi-weekly e-newsletter outlining the most relevant political information over the previous two weeks.</li>
                 </ul>
+                <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
             <div class="panel accordion-close">
                 <p>
