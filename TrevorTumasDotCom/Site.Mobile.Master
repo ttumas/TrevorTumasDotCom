@@ -1,4 +1,5 @@
 <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobile.master.cs" Inherits="TrevorTumasDotCom.Site_Mobile" %>
+
 <%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>
 
 <!DOCTYPE html>
@@ -12,7 +13,7 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
 
-    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="~/Content/Site.css" />
@@ -52,7 +53,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/" style="text-decoration: none;">More Coming Soon</a></li>
+                        <li><a runat="server" href="Projects.aspx" style="text-decoration: none; cursor: default;">Projects</a></li>
                         <%--<li><a runat="server" href="~/About">My Nature</a></li>
                         <li><a runat="server" href="~/Contact">Projects</a></li>
                         <li><a runat="server" href="~/Contact">Thoughts</a></li>--%>
@@ -60,21 +61,22 @@
                 </div>
             </div>
         </div>
-        
-        <div class="contact-sticky col-md-12"> 
+
+        <div class="contact-sticky col-md-12">
             <div class="contact-content">
                 <div class="contact-content-bullet heartbeat">
-                    <p >Trevor Tumas</p>
-                    <p >trevortumas@gmail.com</p>
-                    <p >(480) 600-6368</p>               
-                </div>           
+                    <p>Trevor Tumas</p>
+                    <p>trevortumas@gmail.com</p>
+                    <p>(480) 600-6368</p>
+                </div>
             </div>
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
-            <hr />
+
             <footer>
+                <hr />
                 <p class="align-center">&copy; Trevor Bradley Tumas <%: DateTime.Now.Year %></p>
                 <div class="align-center">
                     <a class="btn" href="https://www.facebook.com/trevor.tumas">
@@ -92,8 +94,8 @@
                 </div>
             </footer>
         </div>
-        
-        
+
+
 
     </form>
 </body>

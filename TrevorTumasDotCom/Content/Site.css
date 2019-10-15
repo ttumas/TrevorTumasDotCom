@@ -121,6 +121,19 @@ body {
     padding-top: 50px;
     padding-bottom: 20px;
     background-color: #fffff9;
+    margin: 0 0 4%;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
 }
 
 /* Wrapping element */
@@ -194,7 +207,7 @@ p.align-center {
 
 .btn {
     display: inline-block;
-    width: 10%;
+    width: 6%;
     height: 25%;
     background: #f1f1f1;
     margin: 10px;
@@ -269,6 +282,42 @@ p.align-center {
 
 .inline {
     display: inline;
+}
+
+.pdf-container {
+    text-align: center;
+}
+
+.project {
+    display: flex !important;
+    height: 100%;
+}
+
+.project-container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.project-header {
+    height: 100%;
+    width: 100%;
+
+}
+
+.project-item {
+    display: inline-flex;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.project-plus {
+    display: inline-flex;
+    margin-left: 17%;
+    vertical-align: middle;
+}
+
+.row {
+    margin-bottom: 10%;
 }
 
 .skill-rating {
@@ -547,6 +596,10 @@ span.mobile-hide {
         text-align: center;
     }
 
+    body {
+        margin: 0 0 20% !important;
+    }
+    
     .accordionButton {
         text-align: center !important;
         box-shadow: 3px 3px #e5e5d8;
