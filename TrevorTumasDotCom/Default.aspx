@@ -612,7 +612,7 @@
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                                 <div class="typcn icon-default typcn-star-outline inline"></div>
                             </div>
-                            <span class="mobile-hide">I do not regularly edit videos, but here and there I am working on something that requires some footage to be edited. I started using Blender as it was free, open-source, and robust. My thesis project, which can be found on this website, is work that I am proud of but acknowledge is dense and not ideal for an average person to consume. So, I used Blender to create a video that communicates the ideas in the paper with the hopes of reaching a wider audience. It can also be found on this site. </span>
+                            <span class="mobile-hide">I do not regularly edit videos, but here and there I am working on something that requires some footage to be edited. I started using Blender as it was free, open-source, and robust.</span>
                         </a>
                     </div>
                 </div>

@@ -284,6 +284,18 @@ p.align-center {
     display: inline;
 }
 
+.left {
+    justify-content: flex-start !important;
+}
+
+.line-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    height: 1.5em;
+}
+
 .pdf-container {
     text-align: center;
 }
@@ -294,14 +306,13 @@ p.align-center {
 }
 
 .project-container {
-    width: 75%;
+    width: 90%;
     margin: 0 auto;
 }
 
 .project-header {
     height: 100%;
-    width: 100%;
-
+    width: 100%;   
 }
 
 .project-item {
