@@ -938,7 +938,7 @@
                     <br />
                     <br />
                     But I learned a ton. And this led to my thesis paper, which aimed to provide a comprehensive perspective that explains the political division, hostility, and turmoil that seems to characterize politics of today. It's one of the things I am most proud to have been a part of, and
-                    more details about it can be found on this website. 
+                    more details about it can be found on <a href="Projects.aspx">the Projects page</a>. 
                 </p>
 
                 <div class="single-line-thumbnails">

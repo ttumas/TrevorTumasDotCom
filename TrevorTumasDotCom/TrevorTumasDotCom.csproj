@@ -147,6 +147,7 @@
     <Content Include="Content\images\DISC_CIP_class.jpg" />
     <Content Include="Content\images\DISC_FMSC_PWC.jpg" />
     <Content Include="Content\images\DISC_officers.JPG" />
+    <Content Include="Content\images\EERD.jpg" />
     <Content Include="Content\images\Fender_site_tour.jpg" />
     <Content Include="Content\images\google-logo.png" />
     <Content Include="Content\images\Google_ball_pit.jpg" />
@@ -157,6 +158,8 @@
     <Content Include="Content\images\mokwa_banquet_2016.jpg" />
     <Content Include="Content\images\mokwa_banquet_2019.jpeg" />
     <Content Include="Content\images\mosaic-delivery.jpg" />
+    <Content Include="Content\images\perspective.gif" />
+    <Content Include="Content\images\PL_Newsletter.png" />
     <Content Include="Content\images\political literates logo refined.png" />
     <Content Include="Content\images\political_literates_statepress.png" />
     <Content Include="Content\images\Sandhills_Global_color.png" />

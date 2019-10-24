@@ -121,7 +121,7 @@ body {
     padding-top: 50px;
     padding-bottom: 20px;
     background-color: #fffff9;
-    margin: 0 0 4%;
+    margin: 0 0 7%;
 }
 
 footer {
@@ -608,7 +608,7 @@ span.mobile-hide {
     }
 
     body {
-        margin: 0 0 20% !important;
+        margin: 0 0 30% !important;
     }
     
     .accordionButton {
@@ -644,6 +644,10 @@ span.mobile-hide {
         padding-top: 2%;
     }
 
+    .line-item {
+        height: 3.5em !important;
+    }
+
     .mobile-hide {
         display: none !important;
     }
@@ -654,13 +658,25 @@ span.mobile-hide {
         padding-bottom: 5%;
     }
 
+    #mobile-thesis-pdf {
+        position: static !important;
 
+    }
+    .project-item {
+        font-size: 20px !important;
+    }
 
     .text-pop-up-top {
         font-size: 2.2em !important;
         margin-top: 1em !important;
         display: inline !important;
         vertical-align: middle;
+    }
+
+    #thesis-tap-icon {
+        position: static !important;
+        display: block;
+        float: right;
     }
 
     .thumbnail {
