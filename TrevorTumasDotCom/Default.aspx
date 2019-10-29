@@ -685,16 +685,15 @@
                     <img class="mobile-image" src="Content/images/disc-logo.png" />
                 </div>
                 <p>
-                    Department of Information Systems Club (DISC) &ndash; Tempe, AZ (May 2018 &ndash; Present)
+                    Department of Information Systems Club (DISC) &ndash; Tempe, AZ (January 2016 &ndash; May 2019; May 2017 &ndash; May 2018 as VP)
                 </p>
                 <p style="font-weight: bold;">
                     Vice President of Community Service, Arizona State University
                 </p>
                 <ul class="mobile-hide">
-                    <li>Construct community events that involve our members and the community in ventures that promote pursuance in and awareness of STEM studies.</li>
-                    <li>Engage in DISC officer meetings to share information about our operations to determine what can be done better managerially and how, and to have opportunities to present new ideas for new events.</li>
-                    <li>Coordinate lectures given by various companies about obtaining positions to inform myself and our members about the many paths that may be taken in getting hired and applying those advantageous elements in a college career.</li>
-                    <li>Enlightened on how to be professionally effective and present myself at events such as career fairs, dinners, and other networking events.</li>
+                    <li>Organized community events that involved our members and the community in ventures that promote pursuance in and awareness of STEM studies.</li>
+                    <li>Engaged in regular officer meetings to share information about our operations to improve club management and create action plans while also pitching ideas for new events and activities.</li>
+                    <li>Coordinated lectures given by various companies and developed relationships with recruiters, practicing my public speaking and networking in the process, which helped me understand skills more likely to lead to employment and enabled me to be a more effective CIS/BDA mentor.</li>
                 </ul>
                 <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
@@ -806,7 +805,7 @@
                     At this time, I was still a sophomore going into my junior year, still struggling with many things holding me back professionally, but full of ambition. I went through the program, met some of the most astute and accomplished individuals I know,
                     explored northern California and Google's facilities, and left with my first professional insights and some sobering realizations about how unprepared I was to market myself. I'd get a chance at an interview, my first interview ever, for a full summer internship
                     the following summer, but did not receive an offer. I am a great communicator and writer, which is how I landed a spot in the program. But at the time my lack of confidence caused chronic second-guessing, tripping over my thoughts, 
-                    and fumbling my responses to questions in the moment. My encounter with Google may have come too early in my professional development to seize the larger opportunity, but I crossed paths with people that accelerated my growth, helped me identify weaknesses, and most importantly
+                    and fumbling in my responses to questions in the moment. My encounter with Google may have come too early in my professional development to seize the larger opportunity, but I crossed paths with people that accelerated my growth, helped me identify weaknesses, and most importantly
                     helped me understand how to take steps towards improvement. 
                 </p>
 
@@ -852,7 +851,8 @@
                 </p>
                 <ul class="mobile-hide">
                     <li>Challenged my perspectives on leadership and other aspects of life through debate and analyzation in class with other scholars to develop an organic style of leadership that suits me.</li>
-                    <li>Put leadership qualities into practice through engagement in the community by leading initiatives for community service.</li>
+                    <li>Organized a student initiative to take photos of students wanting to say thanks to veterans, compiled them into a mosaic that resembled the five branches of the U.S. military, and had it professionally printed and donated to the local VA Hospital as a token of gratitude.</li>
+                    <li>Completed a project that was aimed at combating political apathy in my community, which was pitched and well-received, and subsequently spun off into a real on-campus organization (The Political Literates; see below).</li>
                 </ul>
                 <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
@@ -891,7 +891,7 @@
                         </div>
                         <div class="thumbnail-container">
                             <img class="thumbnail" src="Content/images/tillman_group_2019.JPG" />
-                            <h6 class="caption">2019 class picturedis at the senior celebration</h6>
+                            <h6 class="caption">2019 class picture at the senior celebration</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
                             <img class="thumbnail" src="Content/images/veteran%20mosaic.jpg" />
@@ -918,7 +918,7 @@
                     Founder and Co-President, Arizona State University
                 </p>
                 <ul class="mobile-hide">
-                    <li>Founded organization aimed at combating political apathy by delivering information in a simple and impartial way through a bi-weekly e-newsletter outlining the most relevant political information over the previous two weeks.</li>
+                    <li>Founded an organization aimed at combating political apathy by delivering information in a simple and impartial way through a bi-weekly e-newsletter outlining the most relevant political information over the previous two weeks.</li>
                 </ul>
                 <div style="text-align: right;"><i class="fa fa-info-circle" style="opacity: 0.7;"></i></div>
             </div>
@@ -928,7 +928,7 @@
                     <br />
                     <br />
                     With that out of the way, this was one of the first highlights of a journey that endured throughout my undergraduate career. I started college during one of the most politically tulmultuous times (2015-2016) in history, with the bonus of experiencing it while
-                    living on a university campus. The presidential election that would become characterized by the longing for the upending of establishment politics was just ramping up. Controversial ideas and new political norms were rampant. Social media had transformed
+                    living on a university campus. The presidential election that would become characterized by a longing for the upending of establishment politics was just ramping up. Controversial ideas and new political norms were rampant. Social media had transformed
                     the way the public follows and talks about elections. Discourse was <i>hostile</i>. This had a heavy impact on my worldview. I wanted to do something about it. And so began a long (and still ongoing) journey to find a worldview that rationalized my experience. 
                     <br />
                     <br />

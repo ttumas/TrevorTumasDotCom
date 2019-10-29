@@ -52,7 +52,7 @@
             <br />
             Let me also add that while I do enjoy this subject, I take more interest in the part where I build a better understanding of people and can more easily build bridges between us. The most
             important takeaway from my political endeavors has been that the issues are never black and white as many would like to believe. Issues are grey and almost never have a unilateral 
-            <i>right answer</i>. People see things differently, and I don't villainize them for it no matter how clear I believe something to be. I like this image as a metaphor:
+            <i>right answer</i>. People see things differently, and I don't villainize them for it no matter how clear I believe something to be. I like this GIF as a metaphor:
             <br />
             <br />
             <div style="text-align: center;">
@@ -152,10 +152,10 @@
             <br />
             <br />
             For our project, we were tasked with creating and optimizing a database for Franklin's Property Management Services (FPMS, a fictional name based off of a real company), a medium-sized
-            property management company that offers a wide variet of preventative maintenance services. We were given a statement that was written as if a client was trying to describe their needs to us, 
+            property management company that offers a wide variety of preventative maintenance services. We were given a statement that was written as if a client was trying to describe their needs to us, 
             the consultants/database administrators. This was to simulate the common real-world disconnect between the client's description of their own needs and the infrastructure of the database, 
             which led us to frequently modifying the database and enhanced entity-relationship diagram. The main tool used was Microsoft SQL Server (which we had to run through Citrux which is 
-            <i>just the worst</i>). In the end, we created a system where FPMS could keep detailed records of employees' information, accidents, word orders, properties, tasks, parts, and suppliers 
+            <i>just the worst</i>). In the end, we created a system where FPMS could keep detailed records of employees' information, accidents, work orders, properties, tasks, parts, and suppliers 
             while gaining the ability to extract relevant, strategically important information for business plans. 
             <br />
             <br />
@@ -179,7 +179,7 @@
         <div class="panel accordion-close">        
             This is a project that I like to talk about because it was something that I did outside of my main discipline, for an honors marketing class, that changed my perspective of the business world. I
             think what blew my mind the most was how much could be extrapolated from mere careful observations of data that everyone has access to and use it to create effective marketing strategies. While at the
-            same time, how easy it is to make a fatal marketing mistake, through missing a trend or other means, and then in hindsight wonder how something so obvious could have been missed. 
+            same time, seeing how easy it is to make a fatal marketing mistake through a missed trend or other means, and then in hindsight wonder how something so obvious could have been missed. 
             We were tasked with playing the role of a consulting firm making recommendations for a company's future moves. Our company was ADT, the home security company. We spent an entire semester
             researching the company's history, their present nature, and the nature of their market. Quite amusingly to me, we wrote an entire report with recommendations and information to back it up and then
             discovered an ADT investor presentation from 2015 that largely came to the same conclusions as us. Namely, that ADT needs to be thinking about integrating their existing products with the 
