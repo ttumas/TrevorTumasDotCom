@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Projects.aspx.cs" Inherits="TrevorTumasDotCom.Projects" %>
+﻿<%@ Page Title="Trevor's Projects" Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Projects.aspx.cs" Inherits="TrevorTumasDotCom.Projects" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link href="Content/css/accordion.css" rel="stylesheet" />
@@ -12,7 +12,7 @@
         <div class="text-pop-up-top" id="regular-text-pop">Projects</div>
     </div>
     <div class="mobile-show">
-        <div class="text-pop-up-top mobile-show">Projects</div>
+        <h1 class="text-pop-up-top mobile-show">Projects</h1>
     </div>
 
     <div class="project-container">

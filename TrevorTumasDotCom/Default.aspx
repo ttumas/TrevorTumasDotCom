@@ -7,7 +7,7 @@
     <link href="Content/css/typicons.css" rel="stylesheet" />
 
     <div class="jumbotron mobile-hide">
-        <div class="text-pop-up-top" id="regular-text-pop">Trevor Tumas</div>
+        <h1 class="text-pop-up-top" id="regular-text-pop">Trevor Tumas</h1>
         <div id="headshot-container">
             <img src="Content/images/side_profile_transparent.png" id="header-headshot" />
             <div class="text-pop-up-top" id="mobile-text-pop">Trevor Tumas</div>

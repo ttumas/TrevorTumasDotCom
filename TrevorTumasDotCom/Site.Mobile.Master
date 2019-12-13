@@ -15,7 +15,7 @@
 
     <webopt:BundleReference runat="server" Path="~/Content/css" />
     <%--    <link rel="shortcut icon" href="Content/images/logo.ico" type="image/x-icon"/>--%>
-    <link rel="icon" type="image/png" href="Content/images/logoxl.png" />
+    <link rel="icon" type="image/png" href="Content/images/logo.png" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="~/Content/Site.css" />
