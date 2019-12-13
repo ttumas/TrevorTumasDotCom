@@ -107,7 +107,7 @@
         <div class="accordionButton project">
             <div class="project-header">
                 <div class="col-md-9 line-item left">
-                    <h3 class="project-item">trevortumas.net</h3>
+                    <h3 class="project-item">trevortumas.com</h3>
                 </div>
                 <div class="col-md-3 line-item mobile-hide"><i class="fas fa-plus project-plus"></i></div>
             </div>
