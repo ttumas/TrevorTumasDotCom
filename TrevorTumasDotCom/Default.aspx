@@ -16,71 +16,71 @@
         <div id="header-collage">
             <div class="collage-row">
                 <div class="collage-img-container top-left-corner">
-                    <img src="Content/images/CollagePhotos/collage_graduation_pigeon.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_graduation_pigeon.jpg" class="header-collage-image" alt="Trevor Tumas graduation photo"/>
                 </div>
                 <div class="collage-img-container mid-top">
-                    <img src="Content/images/CollagePhotos/collage_church.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_church.jpg" class="header-collage-image" alt="Trevor Tumas in Austrian church"/>
                 </div>
                 <div class="collage-img-container mid-top">
-                    <img src="Content/images/CollagePhotos/collage_colorrun.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_colorrun.jpg" class="header-collage-image" alt="Trevor Tumas at the Color Run"/>
                 </div>
                 <div class="collage-img-container mid-top">
-                    <img src="Content/images/CollagePhotos/collage_cousins_chicago.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_cousins_chicago.jpg" class="header-collage-image" alt="Trevor Tumas with cousins in Chicago"/>
                 </div>
                 <div class="collage-img-container mid-top">
-                    <img src="Content/images/CollagePhotos/collage_crowe.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_crowe.jpg" class="header-collage-image" alt="Trevor Tumas posing with friends and Michael Crow"/>
                 </div>
                 <div class="collage-img-container mid-top">
-                    <img src="Content/images/CollagePhotos/collage_dadside.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_dadside.jpg" class="header-collage-image" alt="Trevor Tumas with family"/>
                 </div>
                 <div class="collage-img-container top-right-corner">
-                    <img src="Content/images/CollagePhotos/collage_DISC_photoshoot.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_DISC_photoshoot.jpg" class="header-collage-image" alt="Trevor Tumas at DISC photoshoot"/>
                 </div>
             </div>
             <div class="collage-row">
                 <div class="collage-img-container mid-left">
-                    <img src="Content/images/CollagePhotos/collage_fishing.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_fishing.jpg" class="header-collage-image" alt="Trevor Tumas fishing off the Florida Keys"/>
                 </div>
                 <div class="collage-img-container">
-                    <img src="Content/images/CollagePhotos/collage_graduation_parents.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_graduation_parents.jpg" class="header-collage-image" alt="Trevor Tumas at graduation with parents"/>
                 </div>
                 <div class="collage-img-container">
-                    <img src="Content/images/CollagePhotos/collage_tillman_winter.JPG" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_tillman_winter.JPG" class="header-collage-image" alt="Trevor Tumas at Tillman Scholars Christmas party"/>
                 </div>
                 <div class="collage-img-container">
-                    <img src="Content/images/CollagePhotos/collage_graz.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_graz.jpg" class="header-collage-image" alt="Trevor Tumas on a hill in Graz, Austria"/>
                 </div>
                 <div class="collage-img-container">
-                    <img src="Content/images/CollagePhotos/collage_LAmural.JPG" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_LAmural.JPG" class="header-collage-image" alt="Trevor Tumas in front of LA mural"/>
                 </div>
                 <div class="collage-img-container">
-                    <img src="Content/images/CollagePhotos/collage_somewhere_in_austria.JPG" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_somewhere_in_austria.JPG" class="header-collage-image" alt="Trevor Tumas hiking in Austria"/>
                 </div>
                 <div class="collage-img-container mid-right">
-                    <img src="Content/images/CollagePhotos/collage_patsrun_2019.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_patsrun_2019.jpg" class="header-collage-image" alt="Trevor Tumas at Pat's Run"/>
                 </div>
             </div>
             <div class="collage-row">
                 <div class="collage-img-container bottom-left-corner">
-                    <img src="Content/images/CollagePhotos/collage_slovakia.JPG" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_slovakia.JPG" class="header-collage-image" alt="Trevor Tumas at Slovakian palace"/>
                 </div>
                 <div class="collage-img-container mid-bottom">
-                    <img src="Content/images/CollagePhotos/collage_momside.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_momside.jpg" class="header-collage-image" alt="Trevor Tumas with family"/>
                 </div>
                 <div class="collage-img-container mid-bottom">
-                    <img src="Content/images/CollagePhotos/collage_studbarn.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_studbarn.jpg" class="header-collage-image" alt="Trevor Tumas in Texas for AIS convention"/>
                 </div>
                 <div class="collage-img-container mid-bottom">
-                    <img src="Content/images/CollagePhotos/collage_budapest.jpeg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_budapest.jpeg" class="header-collage-image" alt="Trevor Tumas with friends from exchange in Budapest"/>
                 </div>
                 <div class="collage-img-container mid-bottom">
-                    <img src="Content/images/CollagePhotos/collage_venice.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_venice.jpg" class="header-collage-image" alt="Trevor Tumas somewhere in Venice, Italy"/>
                 </div>
                 <div class="collage-img-container mid-bottom">
-                    <img src="Content/images/CollagePhotos/collage_vienna.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_vienna.jpg" class="header-collage-image" alt="Trevor Tumas on a hillside in Austria"/>
                 </div>
                 <div class="collage-img-container bottom-right-corner">
-                    <img src="Content/images/CollagePhotos/collage_zellamsee.jpg" class="header-collage-image" />
+                    <img src="Content/images/CollagePhotos/collage_zellamsee.jpg" class="header-collage-image" alt="Trevor Tumas skiing in Zell Am See, Austria"/>
                 </div>
             </div>
 
@@ -185,15 +185,15 @@
                 <div class="single-line-thumbnails col-md-6">
                     <div class="col-md-6 thumbnail-group">
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/CollagePhotos/collage_budapest.jpeg" />
+                            <img class="thumbnail" src="Content/images/CollagePhotos/collage_budapest.jpeg" alt="Trevor Tumas with exchange friends in Budapest"/>
                             <h6 class="caption">Group photo with my friends in Budapest whom I met while abroad</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/thesis_success.jpg" />
+                            <img class="thumbnail" src="Content/images/thesis_success.jpg" alt="Trevor Tumas with Kyle Stenseth after thesis defense"/>
                             <h6 class="caption">My thesis co-author, Kyle Stenseth, and I after successfully defending the paper</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/CollagePhotos/collage_crowe.jpg" />
+                            <img class="thumbnail" src="Content/images/CollagePhotos/collage_crowe.jpg" alt="Trevor Tumas posing with tour guides and Michael Crow in Barrett dining hall" />
                             <h6 class="caption">Honors Devils (Barrett tour guides) and I posing with ASU President Michael Crow during a special event with provosts</h6>
                         </div>
                     </div>
@@ -740,35 +740,35 @@
                 <div class="single-line-thumbnails">
                     <div class="col-md-6 thumbnail-group">
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/DISC_officers.JPG" />
+                            <img class="thumbnail" src="Content/images/DISC_officers.JPG" alt="Trevor Tumas with DISC officers"/>
                             <h6 class="caption">Group photo of the 2017-2018 officers</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/Fender_site_tour.jpg" />
+                            <img class="thumbnail" src="Content/images/Fender_site_tour.jpg" alt="Trevor Tumas holding a guitar on a Fender site tour"/>
                             <h6 class="caption">On a site tour of Fender</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/DISC_CIP_class.jpg" />
+                            <img class="thumbnail" src="Content/images/DISC_CIP_class.jpg" alt="Trevor Tumas at a typical CIP meeting"/>
                             <h6 class="caption">A typical Wednesday evening at the Computer Instruction Program (CIP) at the Tempe Public Library</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/DISC_FMSC_PWC.jpg" />
+                            <img class="thumbnail" src="Content/images/DISC_FMSC_PWC.jpg" alt="Trevor Tumas at Feed My Starving Children"/>
                             <h6 class="caption">One of our packing sessions at Feed My Starving Children with PwC</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/SCOB_awards.JPG" />
+                            <img class="thumbnail" src="Content/images/SCOB_awards.JPG" alt="Trevor Tumas giving out awards at the Secret Code of Business"/>
                             <h6 class="caption">An attendee getting their award at the Secret Code of Business (SCOB)</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/left_hanging_by_child.JPG" />
+                            <img class="thumbnail" src="Content/images/left_hanging_by_child.JPG" alt="Trevor Tumas giving out awards at the Secret Code of Business"/>
                             <h6 class="caption">An attendee leaving me hanging while receiving their award</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/SCOB_deciphering.JPG" />
+                            <img class="thumbnail" src="Content/images/SCOB_deciphering.JPG" alt="Trevor Tumas teaching cryptography at the Secret Code of Business"/>
                             <h6 class="caption">Me leading an activity demonstrating encryption at the SCOB</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/SCOB_group.JPG" />
+                            <img class="thumbnail" src="Content/images/SCOB_group.JPG" alt="Trevor Tumas in a group photo with students at the Secret Code of Business"/>
                             <h6 class="caption">Group photo of the students and volunteers at the SCOB</h6>
                         </div>
                     </div>
@@ -812,19 +812,19 @@
                 <div class="single-line-thumbnails">
                     <div class="col-md-6 thumbnail-group">
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/Google_group_photo.jpg" />
+                            <img class="thumbnail" src="Content/images/Google_group_photo.jpg" alt="Trevor Tumas with Immersioners at Google"/>
                             <h6 class="caption">Group photo of all the 2017 Immersioners</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/IMG_2270.jpg" />
+                            <img class="thumbnail" src="Content/images/IMG_2270.jpg" alt="Trevor Tumas participating in activity at Google event"/>
                             <h6 class="caption">Playing a game where a random photo comes on the screen and I have to speak about it for X seconds</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/Google_conference.jpg" />
+                            <img class="thumbnail" src="Content/images/Google_conference.jpg" alt="Trevor Tumas attending conference with Waymo professionals" />
                             <h6 class="caption">One of many conferences we went to on topics varying from Waymo's technology to Imposter Syndrome</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/Google_ball_pit.jpg" />
+                            <img class="thumbnail" src="Content/images/Google_ball_pit.jpg" alt="Trevor Tumas in a ball pit"/>
                             <h6 class="caption">Me and my friend Sal enjoying Google's office ball pit</h6>
                         </div>
                     </div>
@@ -878,27 +878,27 @@
                 <div class="single-line-thumbnails">
                     <div class="col-md-6 thumbnail-group">
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/mokwa_banquet_2016.jpg" />
+                            <img class="thumbnail" src="Content/images/mokwa_banquet_2016.jpg" alt="Trevor Tumas with Dr. Mokwa freshman year"/>
                             <h6 class="caption">Freshman year with the program leader, Dr. Michael Mokwa</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/mokwa_banquet_2019.jpeg" />
+                            <img class="thumbnail" src="Content/images/mokwa_banquet_2019.jpeg" alt="Trevor Tumas with Dr. Mokwa senior year"/>
                             <h6 class="caption">Senior year at the senior celebration</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/tillman_group_2016.jpg" />
+                            <img class="thumbnail" src="Content/images/tillman_group_2016.jpg" alt="Trevor Tumas posing with students in cohort freshman year"/>
                             <h6 class="caption">Tillman Scholars 2016-2017 class picture</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/tillman_group_2019.JPG" />
+                            <img class="thumbnail" src="Content/images/tillman_group_2019.JPG" alt="Trevor Tumas posing with student in cohort senior year"/>
                             <h6 class="caption">2019 class picture at the senior celebration</h6>
                         </div>
                         <div class="thumbnail-container" style="padding-right: 5%;">
-                            <img class="thumbnail" src="Content/images/veteran%20mosaic.jpg" />
-                            <h6 class="caption">The product of a volunteering initiative I led; a mosaic comprised of photos of students saying thank you to veterans for Labor Day</h6>
+                            <img class="thumbnail" src="Content/images/veteran%20mosaic.jpg" alt="Mosaic comprised of photos of students saying thank you to veterans for Memorial Day"/>
+                            <h6 class="caption">The product of a volunteering initiative I led; a mosaic comprised of photos of students saying thank you to veterans for Memorial Day</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/mosaic-delivery.jpg" />
+                            <img class="thumbnail" src="Content/images/mosaic-delivery.jpg" alt="Trevor Tumas with students at the VA hospital after delivery of mosaic"/>
                             <h6 class="caption">Delivery of the printed mosaic to the Phoenix VA Hospital</h6>
                         </div>
                     </div>
@@ -943,14 +943,14 @@
 
                 <div class="single-line-thumbnails">
                     <div class="col-md-6 thumbnail-group">
-                        <div class="thumbnail-container" style="padding-right: 5%;">
+                        <div class="thumbnail-container" style="padding-right: 3.5%;">
                             <a href="https://www.statepress.com/article/2017/11/sppolitics-clubs-politcal-literates-voting-ballot-elections-maricopa-recorder-fontes">
-                                <img class="thumbnail" src="Content/images/political_literates_statepress.png" />
+                                <img class="thumbnail" src="Content/images/political_literates_statepress.png" alt="Trevor Tumas with a club member being interviewed for a State Press article"/>
                             </a>
                             <h6 class="caption">State Press article written about the organization</h6>
                         </div>
                         <div class="thumbnail-container">
-                            <img class="thumbnail" src="Content/images/political%20literates%20logo%20refined.png" />
+                            <img class="thumbnail" src="Content/images/political%20literates%20logo%20refined.png" alt="Logo of the Political Literates"/>
                             <h6 class="caption">Organization logo</h6>
                         </div>
                     </div>
