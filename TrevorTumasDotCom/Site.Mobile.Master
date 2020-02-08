@@ -6,6 +6,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="The personal website of Trevor Tumas containing an interactive resume and other insights about his character and ventures." />
+    <meta name="thumbnail" content="Content/images/thumbnail.JPG" />
     <title>Trevor Tumas</title>
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 
